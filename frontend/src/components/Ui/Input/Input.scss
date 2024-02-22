@@ -1,0 +1,25 @@
+.input-search {
+  padding: 0;
+  margin: 0;
+  border: 1px solid black;
+  border-radius: 16px;
+  padding-left: 15px;
+  height: 46px;
+  width: 203px;
+  margin-right: 10px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.button-search {
+  height: 48px;
+  width: 48px;
+  border: 0;
+  background-color: #7CA982;
+  border-radius: 8px;
+}
+
+.input-search-component {
+    display: inline-flex;
+}

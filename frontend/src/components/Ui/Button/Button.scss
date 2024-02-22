@@ -1,0 +1,35 @@
+.button {
+    color: white;
+    font-family: "Inter", sans-serif;
+}
+
+.button-s {
+    width: 120px;
+    height: 40px;
+    border-radius: 4px;
+    font-size: 18px;
+}
+
+.button-m {
+    width: 160px;
+    height: 48px;
+    border-radius: 8px;
+    font-size: 24px;
+}
+
+.button-l {
+    width: 200px;
+    height: 56px;
+    border-radius: 12px;
+    font-size: 28px;
+}
+
+.button-theme-light {
+    background-color: #7CA982;
+    border: 3px solid #4CAB87;
+}
+
+.button-theme-dark {
+    background-color: #0F2E21;
+    border: 3px solid #306F5E;
+}

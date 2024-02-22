@@ -1,13 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+// import { useState } from 'react'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
 import './App.css'
+import Button from './components/Ui/Button/Button'
+import Input from './components/Ui/Input/Input'
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
+      {/* <Button
+        size='m'
+        text='cick'
+        theme='dark'
+        onClick={() => {}}
+        key={'cick'}
+      
+      /> */}
+      <Input/>
       {/* <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
